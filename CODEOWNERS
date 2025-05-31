@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @aerotheengineer
+/src/backend/database.py      @aerotheengineer
+/src/backend/routers/auth.py  @aerotheengineer
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @aerotheengineer
